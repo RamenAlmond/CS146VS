@@ -11,7 +11,7 @@ Constraints:
 
 ```
 lowestCommonAncestor returns TreeNode
-Paramters are root, p, and q
+Parameters are root, p, and q
 LCA recursively traverses through the binary tree until the current node are within the values of p and q
 
 Method:
