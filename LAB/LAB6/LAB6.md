@@ -36,5 +36,5 @@ While the queue isn't empty
         decrement the courses next to current
             if(indegrees of courses next to are equal to 0)
                 offer courses next to to queue
-returns temp == numCourses 
+returns temp length == numCourses 
 
